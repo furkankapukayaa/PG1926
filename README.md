@@ -1,0 +1,2 @@
+# PG1926
+DSCGAZİ PG1926 Ödev Setleri
